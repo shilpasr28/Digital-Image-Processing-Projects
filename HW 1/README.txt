@@ -106,17 +106,7 @@ RHist.dat, GHist.dat, BHist.dat, IntensityVal.dat
 
 To plot the histograms: Run HistPlot.m
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Problem 3b: PCA
 
-Matlab File Name: DEMO_GPPCA_online.m
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Problem 3c: BM3D
-
-Matlab File Name:BM3D.m (In BM3D folder)
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 
